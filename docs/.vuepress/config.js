@@ -1,6 +1,6 @@
 module.exports = {
   title: 'R00T信息安全战队',
-  description: '分享、求知、提升',
+  description: '分享 | 求知 | 提升',
   dest: 'web',
   markdown: {
         lineNumbers: true
@@ -9,7 +9,8 @@ module.exports = {
     nav: [
       { text: 'finance', link: '/finance.html' },
       { text: 'wiki', link: '/wiki/' },
-      { text: 'writeup', link: '/writeup/' }
+      { text: 'writeup', link: '/writeup/' },
+      { text: '2020 招新赛', link: '/recruit.html' }
     ]
   }
 }
