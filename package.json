@@ -1,8 +1,11 @@
 {
-  "name": "r00t-blog",
+  "name": "r00t-webpage",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
 }
