@@ -63,7 +63,9 @@ rm -f /flag.sh
 7. 在web1目录中，`docker-compose up -d` 启动
 
 使用`docker-compose stop` 暂停运行
+
 使用`docker-compose down` 删除容器，用于环境重建
+
 使用`docker-compose build` 重新运行Dockerfile
 
 目录结构
