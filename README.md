@@ -1,5 +1,9 @@
 # www.r00team.cc 文档编写指南
 
+[![Github Build Status](https://github.com/r00t-security-lab/r00t-webpage/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/r00t-security-lab/r00t-webpage/actions?query=workflow%3A%22Build+and+Deploy%22)
+
+^^^ 如果这里变红了，请及时联系维护者 ^^^
+
 ## 文档编写和部署
 
 1. clone项目
