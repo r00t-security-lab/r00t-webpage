@@ -1,14 +1,6 @@
-# www.r00team.cc 首页部署指南
+# www.r00team.cc 文档编写指南
 
-## vuepress
-
-关于**vuepress**的介绍请查看[Vuepress-快速上手](https://vuepress.vuejs.org/zh/guide/getting-started.html)
-
-需要先安装nodejs、yarn
-
-在本项目目录运行`yarn`拉取依赖
-
-## 文档编写部署
+## 文档编写和部署
 
 1. clone项目
 
@@ -20,14 +12,13 @@ git clone git@github.com:r00t-security-lab/r00t-webpage.git
 
 在docs添加文档，各个目录的首页默认页面为`README.md`，记得添加链接索引
 
-3. 预览文档效果
+3. `git push`。GitHub CI 会自动生成、部署网站，实时更新。
 
-```sh
-yarn docs:dev
-```
+## 在本地预览网站效果（Vuepress）
 
-4. 使用deploy.sh部署
+关于Vuepress的介绍请查看[Vuepress-快速上手](https://vuepress.vuejs.org/zh/guide/getting-started.html)
 
-```sh
-deploy.sh "commit message"
-```
+需要先安装nodejs和yarn。
+
+在本项目目录运行`yarn`拉取依赖，再使用`yarn docs:dev`启动实时更新的本地服务。
+
