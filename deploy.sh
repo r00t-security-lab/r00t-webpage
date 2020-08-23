@@ -23,6 +23,6 @@ git init
 git add -A
 git commit -m 'upload'
 
-git push -f git@github.com:dhu-r00t/dhu-r00t.github.io.git master
+git push -f git@github.com:r00t-security-lab/r00t-security-lab.github.io.git master
 
 cd -
