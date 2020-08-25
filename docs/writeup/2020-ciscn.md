@@ -61,10 +61,8 @@ print(flag)
 
 ### bd
 
-看到`e`很大，怀疑`d`较小，尝试使用低解密指数攻击。
+看到`e`很大，怀疑`d`较小，尝试使用低解密指数攻击。脚本如下：
 
-<details>
-<summary>脚本如下：</summary>
 ```python
 #!/usr/bin/env python3
 
@@ -236,7 +234,6 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-</details>
 
 求出`d`的值，使用下列脚本解密flag：
 
@@ -255,10 +252,8 @@ print(long_to_bytes(m))
 
 ### z3
 
-主函数F5，扑面而来的线性方程组。往常都是转成matlab代码交给在线IDE跑的，这次正好借机学一学z3怎么用。
+主函数F5，扑面而来的线性方程组。往常都是转成matlab代码交给在线IDE跑的，这次正好借机学一学z3怎么用。脚本如下：
 
-<details>
-<summary>脚本如下：</summary>
 ```python
 #!/usr/bin/env python3
 
@@ -326,7 +321,6 @@ if sol.check() == sat:
 else:
     print('oops')
 ```
-<details>
 
 `flag{7e171d43-63b9-4e18-990e-6e14c2afe648}`
 
