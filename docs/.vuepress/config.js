@@ -9,8 +9,7 @@ module.exports = {
     nav: [
       { text: 'finance', link: '/finance.html' },
       { text: 'wiki', link: '/wiki/' },
-      { text: 'writeup', link: '/writeup/' },
-      { text: '2020 招新赛', link: '/recruit.html' }
+      { text: 'writeup', link: '/writeup/' }
     ]
   }
 }
