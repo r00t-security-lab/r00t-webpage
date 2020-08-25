@@ -6,7 +6,7 @@ r00t 知识库，由战队成员共同维护
 
 [题目部署指南](ctf_deploy.html)
 
-[首页部署指南](webpage_deploy.html)
+~~[首页部署指南](webpage_deploy.html)~~（已过时；由GitHub CI接管）
 
 ## web
 
