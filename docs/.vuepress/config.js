@@ -7,9 +7,9 @@ module.exports = {
    },
   themeConfig: {
     nav: [
-      { text: 'finance', link: '/finance.html' },
-      { text: 'wiki', link: '/wiki/' },
-      { text: 'writeup', link: '/writeup/' }
+      { text: '财务公开', link: '/finance.html' },
+      { text: '知识库', link: '/wiki/' },
+      { text: 'Writeup', link: '/writeup/' }
     ]
   }
 }
