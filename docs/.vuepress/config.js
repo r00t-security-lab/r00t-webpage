@@ -10,7 +10,7 @@ module.exports = {
       { text: '财务公开', link: '/finance.html' },
       { text: '知识库', link: '/kb/' },
       { text: '原wiki', link: '/wiki/' },
-      { text: 'Writeup', link: '/writeup/' }
+      { text: '原WP分区', link: '/writeup/' }
     ]
   }
 }
