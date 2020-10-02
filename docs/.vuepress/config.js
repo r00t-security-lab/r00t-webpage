@@ -9,8 +9,8 @@ module.exports = {
     nav: [
       { text: '财务公开', link: '/finance.html' },
       { text: '知识库', link: '/kb/' },
-      { text: '原wiki', link: '/wiki/' },
-      { text: '原WP分区', link: '/writeup/' }
+      { text: 'WriteUp', link: '/writeup/' },
+      { text: '原wiki', link: '/wiki/' }
     ]
   }
 }
