@@ -6,6 +6,7 @@
   },
   "version": "0.0.0",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "@vuepress/plugin-google-analytics": "^1.7",
+    "vuepress": "^1.5"
   }
 }

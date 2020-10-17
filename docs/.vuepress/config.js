@@ -12,5 +12,13 @@ module.exports = {
       { text: 'WriteUp', link: '/writeup/' },
       { text: '原wiki', link: '/wiki/' }
     ]
-  }
+  },
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-180711257-1'
+      }
+    ]
+  ]
 }
