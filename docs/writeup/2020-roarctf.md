@@ -1,6 +1,8 @@
-# RoarCTF 2020
+---
+sidebar: auto
+---
 
-by r00t
+# RoarCTF 2020
 
 两个一血，张师傅tql
 
