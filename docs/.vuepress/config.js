@@ -7,7 +7,7 @@ module.exports = {
    },
   themeConfig: {
     nav: [
-      { text: '2023新生赛', link: '/rtctf.html' },
+      // { text: '2023新生赛', link: '/rtctf.html' },
       { text: '财务公开', link: '/finance.html' },
       { text: '知识库', link: '/kb/' },
       { text: 'WriteUp', link: '/writeup/' },

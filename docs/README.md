@@ -10,9 +10,10 @@ features:
   details: 涉及 Windows/Linux/Android 平台的多种编程技术，要求利用常用工具对源代码及二进制文件进行逆向分析，掌握 Android 移动应用 APK 文件的逆向分析，掌握加解密、内核编程、算法、反调试和代码混淆技术。
 - title: PWN
   details: 掌握 C/C++/Python/PHP/Java/Ruby/汇编 等语言，挖掘 Windows/Linux（x86/x86_64 平台）二进制程序漏洞，掌握缓冲区溢出和格式化字符串攻击，编写并利用 shellcode。 
-footer: Copyright © 2016-2022 r00t team 
+footer: Copyright © 2016-2023 r00t team 
 ---
 
-::: tip 2023年r00t战队招新已经开始
-r00t面向全校同学招新:clap:，今年份新生赛正在火热进行（[戳这里来玩！](/rtctf.html)），我们将在暑期举行为期一周的入门培训，方便大家快速了解CTF竞赛并体验其中的乐趣，感兴趣的同学欢迎加入**QQ群：419148228**，了解详情。
+::: tip 2023年r00t战队招新火热进行中
+r00t面向全校同学招新:clap:**校内暑期集训**即将开始，为​方便大家快速了解CTF竞赛并体验其中的乐趣，感兴趣的同学欢迎加入**QQ群：419148228**了解详情。
 :::
+
