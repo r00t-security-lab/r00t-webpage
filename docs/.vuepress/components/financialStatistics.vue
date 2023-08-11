@@ -13,7 +13,8 @@ export default {
   mounted() {
     this.total = Array.from(this.$parent.$el.querySelectorAll("tbody > tr"))
       .map((x) => Number(x.children[2].innerText))
-      .reduce((acc, cnt) => cnt + acc);
+      .reduce((acc, cnt) => cnt + acc)
+      .toFixed(2);
   },
 };
 </script>
