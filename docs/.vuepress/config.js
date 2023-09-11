@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'R00T信息安全战队',
+  title: 'r00t信息安全战队',
   description: '分享 | 求知 | 提升',
   dest: 'web',
   markdown: {
@@ -11,7 +11,7 @@ module.exports = {
       { text: '财务公开', link: '/finance.html' },
       { text: '知识库', link: '/kb/' },
       { text: 'WriteUp', link: '/writeup/' },
-      { text: '原wiki', link: '/wiki/' }
+      { text: '原 Wiki', link: '/wiki/' }
     ]
   },
   plugins: [
