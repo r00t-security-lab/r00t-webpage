@@ -3,7 +3,8 @@ module.exports = {
   description: '分享 | 求知 | 提升',
   dest: 'web',
   markdown: {
-        lineNumbers: true
+      lineNumbers: true,
+      html: true,
    },
   themeConfig: {
     nav: [
